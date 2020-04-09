@@ -109,7 +109,7 @@
                     <a class="nav-link active-home" href="/">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/dutdavid/healthinmotion">Github link</a>
+                    <a class="nav-link" href="https://github.com/JeanPierreNdagijimana/Jean_Pierre">Github link</a>
                   </li>
                 </ul>
               </div>
